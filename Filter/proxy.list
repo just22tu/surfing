@@ -3,8 +3,8 @@ HOST,*.roblox.*
 HOST-SUFFIX,roblox.cn
 HOST-SUFFIX,roblox.com
 HOST-SUFFIX,roblox.qq.com
-HOST-KEYWORD,Roblox*
-USER-AGENT,roblox
+HOST-KEYWORD,roblox
+USER-AGENT,Roblox*
 
 # V2EX
 HOST-SUFFIX,v2ex.com
