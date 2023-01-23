@@ -2148,3 +2148,6 @@ HOST-KEYWORD,yunpan,Download
 
 #幕布
 HOST-SUFFIX,mubu.com
+
+# 微博
+HOST,sdkapp.uve.weibo.com,direct
