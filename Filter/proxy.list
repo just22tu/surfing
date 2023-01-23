@@ -1,3 +1,17 @@
+# Roblox
+HOST,*.roblox.*
+HOST-SUFFIX,roblox.cn
+HOST-SUFFIX,roblox.com
+HOST-SUFFIX,roblox.qq.com
+HOST-KEYWORD,Roblox*
+USER-AGENT,roblox
+
+# V2EX
+HOST-SUFFIX,v2ex.com
+
+# OpenAi
+HOST-SUFFIX,openai.com
+
 # Telegram
 HOST-SUFFIX,comments.app
 HOST-SUFFIX,contest.com
@@ -883,11 +897,6 @@ HOST-KEYWORD,steambroadcast
 HOST-KEYWORD,steamstore
 HOST-KEYWORD,steamuserimages
 
-# V2EX
-HOST-SUFFIX,v2ex.com
-
-# OpenAi
-HOST-SUFFIX,openai.com
 
 
 
