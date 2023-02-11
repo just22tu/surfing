@@ -10,6 +10,8 @@ USER-AGENT,Roblox*
 HOST-SUFFIX,v2ex.com
 
 # OpenAi
+HOST,cdn.auth0.com
+HOST,openaiapi-site.azureedge.net
 HOST-SUFFIX,openai.com
 
 # Telegram
