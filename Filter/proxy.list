@@ -1,3 +1,13 @@
+# Reddit
+HOST-SUFFIX,redd.it
+HOST-SUFFIX,reddit.com
+HOST-SUFFIX,redditmail.com
+HOST-SUFFIX,redditmedia.com
+HOST-SUFFIX,redditstatic.com
+HOST-SUFFIX,reddituploads.com
+HOST-SUFFIX,reddituploads.com.cdn-cf.behance.net
+HOST-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
+
 # Bing
 HOST-SUFFIX,bing.com,Bing
 HOST-SUFFIX,bing.com.cn,Bing
