@@ -1,5 +1,5 @@
 # VOAChinese
-HOST,*.voachinese.*
+HOST,www.voachinese.com
 HOST-SUFFIX,voachinese.com
 HOST-KEYWORD,voachinese
 
