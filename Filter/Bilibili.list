@@ -1,6 +1,6 @@
 # BiliBili
-# TOTAL: 123
-# UPDATED: 2022-11-03 
+# TOTAL: 124
+# UPDATED: 2023-04-10 
 HOST,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com,BiliBili
 HOST,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com,BiliBili
 HOST,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com,BiliBili
@@ -97,6 +97,7 @@ HOST-SUFFIX,bilivideo.cn,BiliBili
 HOST-SUFFIX,bilivideo.com,BiliBili
 HOST-SUFFIX,bilivideo.net,BiliBili
 HOST-SUFFIX,corari.com,BiliBili
+HOST-SUFFIX,dreamcast.hk,BiliBili
 HOST-SUFFIX,dyhgames.com,BiliBili
 HOST-SUFFIX,hdslb.com,BiliBili
 HOST-SUFFIX,hdslb.com.w.kunlunhuf.com,BiliBili
