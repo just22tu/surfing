@@ -1,0 +1,31 @@
+# VOAChinese
+HOST,*.voachinese.*
+HOST-SUFFIX,voachinese.com
+HOST-KEYWORD,voachinese
+
+# Roblox
+HOST,*.roblox.*
+HOST-SUFFIX,roblox.cn
+HOST-SUFFIX,roblox.com
+HOST-SUFFIX,roblox.qq.com
+HOST-KEYWORD,roblox
+USER-AGENT,Roblox*
+
+# V2EX
+HOST-SUFFIX,v2ex.com
+
+# OpenAi
+HOST,cdn.auth0.com
+HOST,openaiapi-site.azureedge.net
+HOST-SUFFIX,openai.com
+
+# Mail
+HOST,imap-mail.outlook.com
+HOST,imap.gmail.com
+HOST,outlook.office365.com
+HOST,pop.gmail.com
+HOST,smtp-mail.outlook.com
+HOST,smtp.gmail.com
+HOST,smtp.office365.com
+HOST-SUFFIX,apple.imap.mail.yahoo.com
+HOST-SUFFIX,m.hotmail.com
