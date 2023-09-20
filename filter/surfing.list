@@ -1,10 +1,26 @@
 # Roblox
-HOST,*.roblox.*
-HOST-SUFFIX,roblox.cn
-HOST-SUFFIX,roblox.com
-HOST-SUFFIX,roblox.qq.com
-HOST-KEYWORD,roblox
-USER-AGENT,Roblox*
+HOST-SUFFIX,roblox.com,Proxy
+HOST-SUFFIX,roblox.net,Proxy
+HOST-SUFFIX,roblox.io,Proxy
+HOST-SUFFIX,robloxcdn.com,Proxy
+HOST-SUFFIX,roblox.qq.com,Proxy
+USER-AGENT,Roblox*,Proxy
+IP-CIDR,128.116.0.0/16,Proxy,no-resolve
+IP-CIDR,128.116.64.0/18,Proxy,no-resolve
+IP-CIDR,128.116.128.0/17,Proxy,no-resolve
+IP-CIDR,128.116.192.0/18,Proxy,no-resolve
+IP-CIDR,128.116.224.0/19,Proxy,no-resolve
+IP6-CIDR,2001:db8::/32,Proxy,no-resolve
+GEOIP,US,Proxy,no-resolve
+GEOIP,CA,Proxy,no-resolve
+GEOIP,EU,Proxy,no-resolve
+GEOIP,AU,Proxy,no-resolve
+GEOIP,NZ,Proxy,no-resolve
+GEOIP,JP,Proxy,no-resolve
+GEOIP,KR,Proxy,no-resolve
+GEOIP,SG,Proxy,no-resolve
+IP-ASN,15169,Proxy,no-resolve
+IP-ASN,13335,Proxy,no-resolve
 
 # V2EX
 HOST-SUFFIX,v2ex.com
