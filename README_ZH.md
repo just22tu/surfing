@@ -2,14 +2,14 @@
 
 **网络请求和响应的优化规则**
 
-[>>> English](README.md)
+[English](README.md)
 
 ## 快速开始
 
 |规则|链接|
 |---|---|
-|重写规则|https://raw.githubusercontent.com/ohnonoyo/surfing/main/rewrite/rewrite.conf|
-|广告拦截|https://raw.githubusercontent.com/ohnonoyo/surfing/main/adblock/advertising.conf|
+|重写规则|https://raw.githubusercontent.com/tripletu/surfing/main/rewrite/rewrite.conf|
+|广告拦截|https://raw.githubusercontent.com/tripletu/surfing/main/adblock/advertising.conf|
 |分流规则|[详情](./filter/readme.md)|
 
 ## 声明

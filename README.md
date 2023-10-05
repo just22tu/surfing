@@ -2,14 +2,14 @@
 
 **Optimization rules for network requests and responses.**
 
-[>>> 中文](README_ZH.md)
+[中文](README_ZH.md)
 
 ## Quick Start
 
 |Rule|Link|
 |---|---|
-|Rewrite|https://raw.githubusercontent.com/ohnonoyo/surfing/main/rewrite/rewrite.conf|
-|AdBlock|https://raw.githubusercontent.com/ohnonoyo/surfing/main/adblock/advertising.conf|
+|Rewrite|https://raw.githubusercontent.com/tripletu/surfing/main/rewrite/rewrite.conf|
+|AdBlock|https://raw.githubusercontent.com/tripletu/surfing/main/adblock/advertising.conf|
 |Filter|[Details](./filter/readme.md)|
 
 ## Statement
