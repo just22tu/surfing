@@ -1,0 +1,28 @@
+name: blocker
+on:
+  schedule:
+    - cron: '0 14 * * *' 
+  workflow_dispatch:
+
+jobs:
+  generate_list:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: checkout repo content
+      uses: actions/checkout@v4
+
+    - name: install python packages
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: execute py script
+      run: python filter/block.py 
+
+    - name: commit changes
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "<action@github.com>"
+        git add filter/block.list
+        git diff --name-only --cached --exit-code || ( git commit -m "update the block.list" && git push )
