@@ -1,0 +1,16 @@
+# Talktone
+
+HOST, ssp.api.tappx.com
+HOST, ow.pubmatic.com
+HOST-SUFFIX, criteo.com
+HOST-SUFFIX, mobilefuse.com
+HOST-SUFFIX, tktn.at
+HOST-SUFFIX, tktn.be
+HOST-SUFFIX, tenor.com
+HOST-SUFFIX, talkatone.com
+IP-CIDR, 50.117.27.0/24
+IP-CIDR, 69.46.75.0/24
+IP-CIDR, 205.164.56.29/24
+IP-CIDR, 63.251.124.0/24
+IP-CIDR, 205.164.56.0/24
+
