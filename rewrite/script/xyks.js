@@ -18,7 +18,7 @@ if (isPK && obj.examVO && obj.examVO.questions && obj.examVO.questions.length > 
     obj.examVO.questions = processQuestions(obj.examVO.questions);
     const firstQuestion = obj.examVO.questions[0];
     if (firstQuestion && firstQuestion.answer) {
-        firstQuestion.answers = [""];
+        firstQuestion.answers = ["."];
     }
 
 // 处理练习场逻辑
@@ -26,7 +26,7 @@ if (isPK && obj.examVO && obj.examVO.questions && obj.examVO.questions.length > 
     obj.questions = processQuestions(obj.questions);
     const firstQuestion = obj.questions[0];
     if (firstQuestion && firstQuestion.answer) {
-        firstQuestion.answers = [""];
+        firstQuestion.answers = ["."];
     }
 }
 
