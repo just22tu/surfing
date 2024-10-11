@@ -24,6 +24,7 @@ if (isPK && obj.examVO && obj.examVO.questions && obj.examVO.questions.length > 
 // 处理练习场逻辑
 } else if (isExams && obj.questions && obj.questions.length > 0) {
     obj.questions = processQuestions(obj.questions);
+    obj.questionCnt = 1;
     const firstQuestion = obj.questions[0];
     if (firstQuestion && firstQuestion.answer) {
         firstQuestion.answers = ["."];
